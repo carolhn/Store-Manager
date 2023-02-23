@@ -8,10 +8,10 @@ A API construída é um sistema de gerenciamento de vendas no formato dropshippi
 Para rodar a aplicação em sua maquina.
 
 1. Clone o repositorio. Use o comando:</br>
-  <code>git clone git@github.com:carolhn/Talker-manager.git</code></br>
+  <code>git clone git@github.com:carolhn/Store-Manager.git</code></br>
   
 2. Entre na pasta do repositório que você acabou de clonar:</br>
-<code>cd Talker-manager</code>
+<code>cd Store-Manager</code>
 
 3. Instale as dependências</br>
 <code>npm install</code>
